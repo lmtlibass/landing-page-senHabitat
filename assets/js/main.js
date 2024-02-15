@@ -243,6 +243,24 @@
     }
   });
 
+  /*
+  * Popup form response
+  */
+  function showMessage(message, type) {
+    var popup = document.getElementById("popup");
+    popup.innerHTML = message;
+    popup.style.display = "block";
+    if (type === "success") {
+      popup.style.backgroundColor = "#4CAF50";
+    } else if (type === "error") {
+      popup.style.backgroundColor = "#f44336";
+    }
+    setTimeout(function () {
+      popup.style.display = "none";
+    }, 3000); 
+  }
+
+
   /**
    * Animation on scroll
    */

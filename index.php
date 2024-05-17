@@ -117,7 +117,7 @@ require_once 'forms/contact.php';
     <div class="container">
       <div class="row">
         <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-          <h1>Achat et Vente de Maisons</h1>
+          <h1>Achat,Vente et location de biens immobliers </h1>
           <h2>
             Trouvez votre chez-vous idéal, vendez avec facilité!
             Achetez et vendez des maisons en toute simplicité avec notre application!
@@ -151,7 +151,7 @@ require_once 'forms/contact.php';
         <div class="row content">
           <div class="col-lg-6">
             <p>
-              SenEspacene plateforme conviviale, localisée et
+              SenEspacene est une plateforme conviviale, localisée et
               complète qui connecte les acheteurs, les vendeurs et les locataires de biens
               immobiliers au Sénégal. Notre mission est de simplifier le processus de recherche
               immobilière, de promouvoir la transparence et d'autonomiser les utilisateurs pour
@@ -214,7 +214,7 @@ require_once 'forms/contact.php';
                   <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
                     <p>
                       Une large gamme d'annonces immobilières, y compris des
-                      maisons, des appartements, des terrains et des espaces commerciaux.
+                      maisons, des appartements, des terrains, des espaces commerciaux etc...
                     </p>
                   </div>
                 </li>
@@ -460,11 +460,10 @@ require_once 'forms/contact.php';
             <h4>Réseaux sociaux</h4>
             <p>Suivez nous sur nos différent réseaux sociaux.</p>
             <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://twitter.com/EspaceSen2024" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="https://www.facebook.com/profile.php?id=61555929915562" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="https://twitter.com/EspaceSen2024" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="www.linkedin.com/company/senespace" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 

@@ -45,7 +45,6 @@ require_once 'forms/contact.php';
       box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
       backdrop-filter: blur(5px);
       -webkit-backdrop-filter: blur(5px);
-      border: 1px solid rgba(255, 255, 255, 0.3);
       border: 1px solid #ccc;
       border-radius: 5px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -85,7 +84,7 @@ require_once 'forms/contact.php';
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Accueil</a></li>
-          <li><a class="nav-link scrollto" href="#about">Apropo</a></li>
+          <li><a class="nav-link scrollto" href="#about">A propos</a></li>
           <li><a class="nav-link scrollto" href="#services">Service</a></li>
           <li><a class="nav-link   scrollto" href="#portfolio">Produit</a></li>
           <li><a class="nav-link scrollto" href="#team">Equipe</a></li>
@@ -389,8 +388,8 @@ require_once 'forms/contact.php';
                 <span class="text-danger"><?php echo isset($messageErr) ? $messageErr : ''; ?></span>
               </div>
               <div class="my-3" id="popup" style="display: none;"></div>
-              <div id="popup" style="display: none;"></div>
-              <div class="text-center"><button type="submit">Envoyer</button></div>
+              <div class="my-3" id="popup" style="display: none;"></div>
+              <div id="popup2" style="display: none;"></div>
             </form>
           </div>
 
@@ -463,7 +462,7 @@ require_once 'forms/contact.php';
               <a href="https://twitter.com/EspaceSen2024" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="https://www.facebook.com/profile.php?id=61555929915562" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="https://twitter.com/EspaceSen2024" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
-              <a href="www.linkedin.com/company/senespace" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              <a href="https://www.linkedin.com/company/senespace" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
             </div>
           </div>
 
